@@ -1,0 +1,42 @@
+---
+title: "Basketball Report"
+author: "Rene, Bartek and Neha"
+date: "October 7, 2015"
+output: ioslides_presentation
+---
+
+
+
+## Moneyball in the NBA
+
+For the Big Data project we choose to apply the thinking from the recent book (and movie) Moneyball by Michael Lewis to data collected from the NBA. We set out to answer three questions:
+
+- How many games do teams need to win to reach the playoffs?                                          
+- What determines whether teams will win games?                                                       
+- Are players fairly compensates based on their relative contribution?
+
+<div style="text-align:center" markdown="1">
+
+![](D.jpg)
+
+## Description of the datasets used
+
+We used data from 3 separate databases the last three years of NBA seasons. This gives us a total of 9 csv files. 
+
+```{r}
+source(C:/Users/User/Documents/introtobda/introtobda/INSEADAnalytics/Project/Q1PlayoffGames.R)
+```
+
+
+## Q1: Games required for the playoffs?
+
+```{r}
+
+```
+
+## Slide with Plot
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
